@@ -1,10 +1,6 @@
-#include "Arduino.h"
+#include <stdio.h>
 
-
-extern "C" void app_main()
+void app_main(void)
 {
-    initArduino();
-    pinMode(4, OUTPUT);
-    digitalWrite(4, HIGH);
-    // Do your own thing
+
 }
