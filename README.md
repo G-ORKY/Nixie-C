@@ -7,3 +7,7 @@ This is a project depend on ESP32-S3-MINI-1U, which is a control module with WI-
 In plan, it will use a special designed USB connector on the pcb instead of the outside USB-C connector to avoid the system damage by accident.
 
 Pcb files in 'Nixie', and some symbols and footprints files you may need are in folder 'Symbols&footprints'
+
+空的！空的！全完啦
+主包开摆了（
+看心情画板子了以后
